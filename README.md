@@ -50,26 +50,26 @@ It allows users to enter locations in multiple formats, retrieve real-time weath
 
 ## ⚙️ Installation & Setup
 
-1. **Clone the repository**
 ```bash
+1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/weather-app-ai-intern-assessment.git
 cd weather-app-ai-intern-assessment
-2. **Install backend dependencies**
+2. Install backend dependencies
 cd backend
 npm install
-3. **Install frontend dependencies**
+3. Install frontend dependencies
 cd ../frontend
 npm install
-4. **Environmental Variables**
+4. Environmental Variables
 Create a .env file in the backend folder with your API keys:
 WEATHER_API_KEY=your_api_key_here
 MAPS_API_KEY=your_api_key_here
 PORT=5000
-5. **Start backend server**
+5. Start backend server
 cd backend
 nodemon
-6. **Start frontend dev server**:
+6. Start frontend dev server:
 cd frontend
 npm start
 
-**Open browser at the port shown**
+Open browser at the port shown
