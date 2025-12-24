@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.env/
+.env.*
+
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+
+*.db
+*.sqlite3
+
+# Logs
+*.log
+node_modules/
