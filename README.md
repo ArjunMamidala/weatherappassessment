@@ -48,6 +48,16 @@ It allows users to enter locations in multiple formats, retrieve real-time weath
 
 ---
 
+## 📄 Requirements
+
+This project requires **Node.js** and **npm** installed on your machine.  
+All project dependencies are listed in the `package.json` files for both backend and frontend.
+
+### Backend
+- Navigate to the `backend/` folder and install dependencies:
+cd backend
+npm install
+
 ## ⚙️ Installation & Setup
 
 ```bash
@@ -73,3 +83,5 @@ cd frontend
 npm start
 
 Open browser at the port shown
+
+
