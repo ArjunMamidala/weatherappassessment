@@ -41,7 +41,7 @@ It allows users to enter locations in multiple formats, retrieve real-time weath
 *(Adjust if needed based on your actual stack)*
 
 - **Backend:** Node.js (Express)
-- **Database:** MongoDB / SQLite
+- **Database:** MongoDB
 - **Frontend:** React
 - **APIs:** OpenWeatherMap, Google Maps (optional)
 - **Other:** RESTful API, JSON data exchange
